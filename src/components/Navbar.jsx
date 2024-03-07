@@ -24,15 +24,15 @@ function Navbar() {
             </button>
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <div class="navbar-nav mx-auto bg-light rounded pe-4 py-3 py-lg-0">
-                    <a href="index.html" class="nav-item nav-link active">Home</a>
-                    <a href="about.html" class="nav-item nav-link">About Us</a>
-                    <a href="service.html" class="nav-item nav-link">Our Services</a>
+                    <a href="index.html" class="nav-item nav-link active">Bosh sahifa</a>
+                    <a href="about.html" class="nav-item nav-link">Biz haqimizda</a>
+                    <a href="service.html" class="nav-item nav-link">Bizning xizmatlar</a>
                     <div class="nav-item dropdown">
                         <a
                             href="#1"
                             class="nav-link dropdown-toggle"
                             data-bs-toggle="dropdown"
-                        >Pages</a
+                        >sahifalar</a
                         >
                         <div class="dropdown-menu bg-light border-0 m-0">
                             <a href="feature.html" class="dropdown-item">Features</a>
@@ -42,10 +42,10 @@ function Navbar() {
                             <a href="404.html" class="dropdown-item">404 Page</a>
                         </div>
                     </div>
-                    <a href="contact.html" class="nav-item nav-link">Contact Us</a>
+                    <a href="contact.html" class="nav-item nav-link">Bog'lanish</a>
                 </div>
             </div>
-            <a href="#1" class="btn btn-primary px-3 d-none d-lg-block">Get A Quote</a>
+            <a href="#1" class="btn btn-primary px-3 d-none d-lg-block">ADMIN BILAN BOG'LANISH</a>
         </nav>
     )
 }

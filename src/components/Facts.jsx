@@ -7,14 +7,14 @@ function Facts() {
                 <div class="row g-0 mx-lg-0">
                     <div class="col-lg-6 facts-text wow fadeIn" data-wow-delay="0.1s">
                         <div class="h-100 px-4 ps-lg-0">
-                            <h1 class="text-white mb-4">For Individuals And Organisations</h1>
+                            <h1 class="text-white mb-4">Shaxsiy menejer va maxsus xizmatlar haqida</h1>
                             <p class="text-light mb-5">
-                                Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit.
-                                Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit,
-                                sed stet lorem sit clita duo justo magna dolore erat amet
+                                ZED CARGO kompaniyasi sizga maxsus VIP-100 xizmatini taklif qiladi. Bu xizmatda siz uchun maxsus yuqori tajribaga ega 
+                                menejer xizmat ko'rsatadi va har bir mijoz bilan individual ishlanadi. VIP-100 xizmatida faqatgina 100 ta mijoz uchun xizmat ko'rsatiladi,
+                                joylar soni chegaralanganligi sababli siz ham bu xizmatdan foydalanishga ulgurib qoling.
                             </p>
                             <a href="#1" class="align-self-start btn btn-secondary py-3 px-5">
-                                More Details
+                                Menejer bilan aloqa
                             </a>
                         </div>
                     </div>
@@ -23,19 +23,19 @@ function Facts() {
                             <div class="row g-5">
                                 <div class="col-sm-6">
                                     <h1 class="display-5" data-toggle="counter-up">1234</h1>
-                                    <p class="fs-5 text-primary">Happy Clients</p>
+                                    <p class="fs-5 text-primary">Mamnun mijozlar</p>
                                 </div>
                                 <div class="col-sm-6">
                                     <h1 class="display-5" data-toggle="counter-up">1234</h1>
-                                    <p class="fs-5 text-primary">Projects Succeed</p>
+                                    <p class="fs-5 text-primary">Yetkazilgan miqdor</p>
                                 </div>
                                 <div class="col-sm-6">
                                     <h1 class="display-5" data-toggle="counter-up">1234</h1>
-                                    <p class="fs-5 text-primary">Awards Achieved</p>
+                                    <p class="fs-5 text-primary">Hamkorlar soni</p>
                                 </div>
                                 <div class="col-sm-6">
                                     <h1 class="display-5" data-toggle="counter-up">1234</h1>
-                                    <p class="fs-5 text-primary">Team Members</p>
+                                    <p class="fs-5 text-primary">Jamoa a'zolari</p>
                                 </div>
                             </div>
                         </div>

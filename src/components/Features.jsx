@@ -6,11 +6,9 @@ function Features() {
             <div class="container">
                 <div class="row g-5">
                     <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
-                        <h1 class="display-6 mb-5">Few Reasons Why People Choosing Us!</h1>
+                        <h1 class="display-6 mb-5">Mijozlar nega bizni tanlashadi!</h1>
                         <p class="mb-4">
-                            Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-                            diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet
-                            lorem sit clita duo justo magna dolore erat amet
+                        Bizning ishonchliligimiz, samaradorligimiz va yuqori darajadagi xizmat ko'rsatishimiz tashqi savdo kompaniyalari bilan ko'p yillik ish, ko'plab bajarilgan tashishlar va hamkorlarimizning yuqori bahosi bilan isbotlangan. Bizning mijozlarimiz o'zlarining qimmatbaho yuklarini xavf ostiga qo'yishga qodir emaslar, shuning uchun ular tovarlar va mahsulotlarni tashishni professionallarga ishonib topshirishadi.
                         </p>
                         <div class="row g-3">
                             <div class="col-sm-6 wow fadeIn" data-wow-delay="0.1s">
@@ -23,7 +21,7 @@ function Features() {
                                             src="img/icon/icon-06-primary.png"
                                             alt=""
                                         />
-                                        <h5 class="mb-0">Easy Process</h5>
+                                        <h5 class="mb-0">Jarayonlashtirish oson</h5>
                                     </div>
                                 </div>
                             </div>
@@ -37,7 +35,7 @@ function Features() {
                                             src="img/icon/icon-03-primary.png"
                                             alt=""
                                         />
-                                        <h5 class="mb-0">Fast Delivery</h5>
+                                        <h5 class="mb-0">Tezkor yetkazib berish</h5>
                                     </div>
                                 </div>
                             </div>

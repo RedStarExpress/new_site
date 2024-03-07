@@ -26,7 +26,7 @@ function Appointment() {
                                     src="img/profile.jpg"
                                     alt=""
                                 />
-                                <h5 class="text-white mb-0">Call Us: +012 345 6789</h5>
+                                <h5 class="text-white mb-0">Call Us: +998 33 190 26 66</h5>
                             </div>
                         </div>
                     </div>

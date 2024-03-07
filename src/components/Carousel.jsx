@@ -12,14 +12,13 @@ function Carousel() {
                                 <div class="row">
                                     <div class="col-12 col-lg-6">
                                         <h1 class="display-3 text-dark mb-4 animated slideInDown">
-                                            Insurance Creates Wealth For Everyone
+                                            ZED CARGO - ENG ISHONCHLI HAMKORINGIZ
                                         </h1>
                                         <p class="fs-5 text-body mb-5">
-                                            Clita erat ipsum et lorem et sit, sed stet lorem sit clita
-                                            duo justo magna dolore erat amet
+                                            Xitoy davlatidan 3-5 kunda tezkor yetkazib berish xizmati
                                         </p>
                                         <a href="#1" class="btn btn-primary py-3 px-5"
-                                        >More Details</a
+                                        >ko'proq ma'lumot olish</a
                                         >
                                     </div>
                                 </div>
@@ -33,14 +32,12 @@ function Carousel() {
                                 <div class="row">
                                     <div class="col-12 col-lg-6">
                                         <h1 class="display-3 text-dark mb-4 animated slideInDown">
-                                            The Best Insurance Begins Here
-                                        </h1>
+                                            ZED CARGO - TEZKOR, ISHONCHLI VA BARQAROR REYSLAR                                        </h1>
                                         <p class="fs-5 text-body mb-5">
-                                            Clita erat ipsum et lorem et sit, sed stet lorem sit clita
-                                            duo justo magna dolore erat amet
+                                               Avia logistika o'zining misli ko'rilmagan tezligi va samadorligi bilan mashxur.
                                         </p>
                                         <a href="#1" class="btn btn-primary py-3 px-5"
-                                        >More Details</a
+                                        >ko'proq ma'lumot olish</a
                                         >
                                     </div>
                                 </div>

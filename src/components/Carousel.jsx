@@ -6,18 +6,18 @@ function Carousel() {
             <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img class="w-100" src="img/hero-bg.png" alt="Image1" />
+                        {/* <img class="w-100" src="img/hero-bg.png" alt="Image1" /> */}
                         <div class="carousel-caption">
                             <div class="container">
                                 <div class="row">
                                     <div class="col-12 col-lg-6">
-                                        <h1 class="display-3 text-dark mb-4 animated slideInDown">
+                                        <h1 class="display-3 text-white mb-4 animated slideInDown">
                                             ZED CARGO - ENG ISHONCHLI HAMKORINGIZ
                                         </h1>
-                                        <p class="fs-5 text-body mb-5">
+                                        <p class="fs-5 text-white mb-5">
                                             Xitoy davlatidan 3-5 kunda tezkor yetkazib berish xizmati
                                         </p>
-                                        <a href="#1" class="btn btn-primary py-3 px-5"
+                                        <a href="https://t.me/Zedcargo" class="btn btn-primary py-3 px-5"
                                         >ko'proq ma'lumot olish</a
                                         >
                                     </div>
@@ -25,18 +25,18 @@ function Carousel() {
                             </div>
                         </div>
                     </div>
-                    <div class="carousel-item">
-                        <img className="w-100" src="img/hero-bg.png" alt="Image2" />
+                    <div class="carousel-item carousel-item-2">
+                        {/* <img className="w-100" src="img/hero-bg.png" alt="Image2" /> */}
                         <div class="carousel-caption">
                             <div class="container">
                                 <div class="row">
                                     <div class="col-12 col-lg-6">
-                                        <h1 class="display-3 text-dark mb-4 animated slideInDown">
-                                            ZED CARGO - TEZKOR, ISHONCHLI VA BARQAROR REYSLAR                                        </h1>
-                                        <p class="fs-5 text-body mb-5">
+                                        <h1 class="display-3 text-white mb-4 animated slideInDown">
+                                            TEZKOR, ARZON VA BARQAROR REYSLAR                                        </h1>
+                                        <p class="fs-5 text-white mb-5">
                                                Avia logistika o'zining misli ko'rilmagan tezligi va samadorligi bilan mashxur.
                                         </p>
-                                        <a href="#1" class="btn btn-primary py-3 px-5"
+                                        <a href="https://t.me/Zedcargo" class="btn btn-primary py-3 px-5"
                                         >ko'proq ma'lumot olish</a
                                         >
                                     </div>

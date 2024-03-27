@@ -12,7 +12,7 @@ function About() {
                         >
                             <img
                                 class="position-absolute w-100 h-100"
-                                src="img/about.jpg"
+                                src="img/apacha.png"
                                 alt=""
                                 style={{ objectFit: "cover" }}
                             />

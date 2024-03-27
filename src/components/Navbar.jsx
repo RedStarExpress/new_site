@@ -9,7 +9,8 @@ function Navbar() {
                 <h1 class="m-0">
                     <img
                         class="img-fluid me-3"
-                        src="img/icon/icon-02-primary.png"
+                        style={{width: "100px"}}
+                        src="img/logo.png"
                         alt=""
                     />ZedCargo
                 </h1>
@@ -45,7 +46,7 @@ function Navbar() {
                     <a href="contact.html" class="nav-item nav-link">Bog'lanish</a>
                 </div>
             </div>
-            <a href="#1" class="btn btn-primary px-3 d-none d-lg-block">ADMIN BILAN BOG'LANISH</a>
+            <a href="https://t.me/Zedcargo" class="btn btn-primary px-3 d-none d-lg-block">ADMIN BILAN BOG'LANISH</a>
         </nav>
     )
 }

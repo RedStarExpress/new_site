@@ -7,14 +7,14 @@ function TopBar() {
         >
             <div class="row gx-0 align-items-center">
                 <div class="col-lg-7 px-5 text-start">
-                    <div class="h-100 d-inline-flex align-items-center me-4">
+                    <a href='tel:+998331902666' class="h-100 d-inline-flex align-items-center me-4 text-white-50">
                         <small class="fa fa-phone-alt me-2"></small>
                         <small>+998 33 190 26 66</small>
-                    </div>
-                    <div class="h-100 d-inline-flex align-items-center me-4">
+                    </a>
+                    <a href='https://t.me/zed_cargo' class="h-100 d-inline-flex align-items-center me-4 text-white-50">
                         <small class="far fa-envelope-open me-2"></small>
                         <small>@zed_cargo</small>
-                    </div>
+                    </a>
                     <div class="h-100 d-inline-flex align-items-center me-4">
                         <small class="far fa-clock me-2"></small>
                         <small>DU - SHAN,  9:00 - 18:00</small>
@@ -31,7 +31,7 @@ function TopBar() {
                         <a class="text-white-50 ms-4" href="#1"
                         ><i class="fab fa-linkedin-in"></i
                         ></a>
-                        <a class="text-white-50 ms-4" href="#1"
+                        <a class="text-white-50 ms-4" href="https://www.instagram.com/zedcargo"
                         ><i class="fab fa-instagram"></i
                         ></a>
                     </div>

@@ -1,9 +1,11 @@
 /********** Template CSS **********/
 :root {
-    --primary: #015FC9;
-    --secondary: #0DD3F1;
+    --primary: #4B4261;
+    --secondary: #4B4261;
     --light: #F6F7FC;
-    --dark: #15233C;
+    --dark: #4B4261;
+
+    --dark-opasity: rgba(75, 66, 97, 0.8);
 }
 
 .back-to-top {
@@ -177,7 +179,7 @@
         position: relative;
         min-height: 450px;
     }
-    
+
     #header-carousel .carousel-item img {
         position: absolute;
         width: 100%;
@@ -223,27 +225,27 @@
 }
 
 @media (min-width: 1200px) {
-    .container.facts .facts-text  {
+    .container.facts .facts-text {
         padding-left: calc(((100% - 1140px) / 2) + .75rem);
     }
 
-    .container.facts .facts-counter  {
+    .container.facts .facts-counter {
         padding-right: calc(((100% - 1140px) / 2) + .75rem);
     }
 }
 
 @media (min-width: 1400px) {
-    .container.facts .facts-text  {
+    .container.facts .facts-text {
         padding-left: calc(((100% - 1320px) / 2) + .75rem);
     }
 
-    .container.facts .facts-counter  {
+    .container.facts .facts-counter {
         padding-right: calc(((100% - 1320px) / 2) + .75rem);
     }
 }
 
 .container.facts .facts-text {
-    background: linear-gradient(rgba(1, 95, 201, .9), rgba(1, 95, 201, .9)), url(../img/carousel-1.jpg) center right no-repeat;
+    background: linear-gradient(var(--dark-opasity), var(--dark-opasity)), url(../img/carousel-1.jpg) center right no-repeat;
     background-size: cover;
 }
 
@@ -294,7 +296,7 @@
 
 /*** Appointment ***/
 .appointment {
-    background: linear-gradient(rgba(1, 95, 201, .9), rgba(1, 95, 201, .9)), url(../img/carousel-1.jpg) center center no-repeat;
+    background: linear-gradient(var(--dark-opasity), var(--dark-opasity)), url(../img/carousel-1.jpg) center center no-repeat;
     background-size: cover;
 }
 
@@ -468,4 +470,39 @@
 
 .footer .copyright a:hover {
     color: #FFFFFF;
+}
+
+.bg-dark {
+    background-color: var(--dark) !important;
+}
+
+.bg-primary {
+    background-color: var(--primary) !important;
+}
+
+.text-primary {
+    color: var(--primary) !important;
+}
+
+.text-dark {
+    color: var(--dark) !important;
+}
+
+.btn-primary {
+    background-color: var(--dark) !important;
+    border-color: transparent;
+}
+
+.btn.btn-secondary {
+    background-color: var(--secondary) !important;
+    border-color: transparent;
+}
+
+.carousel-item {
+    min-height: calc(100vh - 150px);
+    background: linear-gradient( rgba(75, 66, 97, 0.5), rgba(75, 66, 97, 0.5)), url(../img/hero-bg.png) center right no-repeat;
+}
+
+.carousel-item-2 {
+    background: linear-gradient( rgba(75, 66, 97, 0.5), rgba(75, 66, 97, 0.5)), url(../img/hero-bg2.png) center right no-repeat;
 }
